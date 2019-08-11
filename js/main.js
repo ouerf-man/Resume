@@ -179,12 +179,27 @@ var object = [
 {
 
 'headline':'jQuery',
+'value':9,
+'length':10,
+'description':''
+
+},
+{
+
+'headline':'ReactJs',
 'value':8,
 'length':10,
 'description':''
 
 },
+{
 
+'headline':'Angular',
+'value':5,
+'length':10,
+'description':''
+
+},
 {
 
 'headline':'Symfony',
