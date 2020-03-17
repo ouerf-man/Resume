@@ -142,7 +142,7 @@ var object = [
 
 {
 
-'headline':'HTML,CSS,JavaScript',
+'headline':'MERN STACK (MongoDB, ExpressJs, React,Js, Node.js)',
 'value':9,
 'length':10,
 'description':''
@@ -151,34 +151,7 @@ var object = [
 
 {
 
-'headline':'Php',
-'value':8,
-'length':10,
-'description':''
-
-},
-
-{
-
-'headline':'MySQL',
-'value':9,
-'length':10,
-'description':''
-
-},
-
-{
-
-'headline':'Bootstrap',
-'value':8,
-'length':10,
-'description':''
-
-},
-
-{
-
-'headline':'jQuery',
+'headline':'Full-Stack web development( Symfony, MySQL, Javascript, Bootstrap, JQuery)',
 'value':9,
 'length':10,
 'description':''
@@ -187,46 +160,20 @@ var object = [
 {
 
 'headline':'ReactJs',
-'value':8,
+'value':9,
 'length':10,
 'description':''
 
 },
-{
 
-'headline':'Angular',
-'value':5,
-'length':10,
-'description':''
-
-},
 {
 
 'headline':'Symfony',
-'value':6,
-'length':10,
-'description':''
-
-},
-
-{
-
-'headline':'Java',
 'value':8,
 'length':10,
 'description':''
 
 },
-
-{
-
-'headline':'Photoshop',
-'value':8,
-'length':10,
-'description':''
-
-},
-
 {
 'headline':'Communication',
 'value':9,
@@ -238,7 +185,7 @@ var object = [
 {
 
 'headline':'Public speaking',
-'value':7,
+'value':8,
 'length':10,
 'description':''
 
@@ -252,6 +199,15 @@ var object = [
 'description':''
 
 },
+
+{
+
+	'headline':'Photoshop',
+	'value':8,
+	'length':10,
+	'description':''
+	
+	},
 ];
 
 
